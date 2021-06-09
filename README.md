@@ -4,7 +4,7 @@ Ovaj projekat predstavlja kombinaciju Cezarove šifre i Morzeovog pisma, zajedno
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br>
 D E F G H I J K L M N O P Q R S T U V W X Y Z A B C <br>
 <br>
-Drugi korak predstavlja prebacivanje u Morzeovo pismo. Umesto simbola **.** za koristimo broj 1, a umesto **-** koristimo broj 2 u zapisu slova. Nakon svakog slova se nalazi nula, osim poslednjeg slova u reči, radi lakšeg prebacivanja u decimalni broj. Kako Morzeovo pismo ima istu vrednost i za mala i velika slova, velika prebacimo u mala.
+Drugi korak predstavlja prebacivanje u Morzeovo pismo. Umesto simbola **.** koristimo broj 1, a umesto **-** koristimo broj 2 u zapisu slova. Nakon svakog slova se nalazi nula, osim poslednjeg slova u reči, radi lakšeg prebacivanja u decimalni broj. Kako Morzeovo pismo ima istu vrednost i za mala i velika slova, velika prebacimo u mala.
 <br>
 <br>
 Trećim korakom postižemo prebacivanje broja iz osnove 3 u osnovu 10. To radimo tako što svaku cifru množimo stepenom trojke, a stepen je indeks na kom se cifra nalazi.
