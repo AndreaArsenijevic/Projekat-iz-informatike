@@ -1,6 +1,6 @@
 # Hipatijin kod
 
-Ovaj projekat predstavlja kombinaciju Cezarove šifre i Morzeovog pisma, zajedno sa još dve dodatne operacije. Prvi korak je prebacivanje date reči u drugu pomoću Cezarove šifre. Cezarova šifra je šifra kod koje se svako slovo zanemi odgovarajućim slovom na osnovu ključa. Ključ je broj za koji pomeramo sva slova u reči. U ovom slučaju koristi se ključ vrednosti 3 i tabela menjanja slova izgleda ovako: <br>
+Ovaj projekat predstavlja kombinaciju Cezarove šifre i Morzeovog pisma, zajedno sa još dve dodatne operacije. Prvi korak je prebacivanje date reči u drugu pomoću Cezarove šifre. Cezarova šifra je šifra kod koje se svako slovo zameni odgovarajućim slovom na osnovu ključa. Ključ je broj za koji pomeramo sva slova u reči. U ovom slučaju koristi se ključ vrednosti 3 i tabela menjanja slova izgleda ovako: <br>
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br>
 D E F G H I J K L M N O P Q R S T U V W X Y Z A B C <br>
 <br>
